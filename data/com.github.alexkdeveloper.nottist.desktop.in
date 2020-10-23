@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Nottist
+Comment=Simple notepad for GNU/Linux
+Exec=com.github.alexkdeveloper.nottist %U
+Icon=com.github.alexkdeveloper.nottist
+Terminal=false
+Categories=GTK;Utility;
+Keywords=text;plain;plaintext;notepad;notes;sticky;post-it;
