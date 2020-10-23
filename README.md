@@ -36,4 +36,4 @@ meson build --prefix=/usr
 # cd to build, build and test
 cd build
 sudo ninja install && nottist
-...
+
