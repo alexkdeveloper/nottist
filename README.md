@@ -1,4 +1,4 @@
-# nottist 
+# Nottist 
 
 ![screenshot.png](/data/screenshot.png)
 
@@ -36,17 +36,4 @@ meson build --prefix=/usr
 # cd to build, build and test
 cd build
 sudo ninja install && nottist
-```
-
-## Generating pot file
-
-```bash
-# after setting up meson build
-cd build
-
-# generates pot file
-sudo ninja nottist-pot
-
-# to regenerate and propagate changes to every po file
-sudo ninja nottist-update-po
-```
+...
